@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "title": "iPhone 9",
+        "description": "An apple mobile which is nothing like apple",
+        "price": 5490000,
+        "priceDiscount": 3490000,
+        "stock": 94,
+        "brand": "Apple",
+        "category": "smartphones",
+        "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
+        "image": "https://i.dummyjson.com/data/products/1/1.jpg",
+        "rating": {
+            "rate": 3.9,
+            "review": 120
+        },
+        "wishlist": false,
+        "created_at":"2022-11-05 15:06:00"
+    },
+    {
+        "id": 2,
+        "title": "iPhone X",
+        "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+        "price": 8990000,
+        "priceDiscount": 7990000,
+        "stock": 34,
+        "brand": "Apple",
+        "category": "smartphones",
+        "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
+        "image": "https://i.dummyjson.com/data/products/2/1.jpg",
+        "rating": {
+            "rate": 3.5,
+            "review": 100
+        },
+        "wishlist": false,
+        "created_at":"2022-11-19 15:06:00"
+    },
+    {
+        "id": 3,
+        "title": "Samsung Universe 9",
+        "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+        "price": 12490000,
+        "priceDiscount": 10490000,
+        "stock": 36,
+        "brand": "Samsung",
+        "category": "smartphones",
+        "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
+        "image": "https://i.dummyjson.com/data/products/3/1.jpg",
+        "rating": {
+            "rate": 4.1,
+            "review": 520
+        },
+        "wishlist": false,
+        "created_at":"2022-11-16 15:06:00"
+    },
+    {
+        "id": 4,
+        "title": "OPPOF19",
+        "description": "OPPO F19 is officially announced on April 2021.",
+        "price": 2800000,
+        "priceDiscount": 2500000,
+        "stock": 123,
+        "brand": "OPPO",
+        "category": "smartphones",
+        "thumbnail": "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
+        "image": "https://i.dummyjson.com/data/products/4/1.jpg",
+        "rating": {
+            "rate": 2.7,
+            "review": 19
+        },
+        "wishlist": false,
+        "created_at":"2022-11-15 15:06:00"
+    },
+    {
+        "id": 5,
+        "title": "Huawei P30",
+        "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+        "price": 4990000,
+        "priceDiscount": 3990000,
+        "stock": 32,
+        "brand": "Huawei",
+        "category": "smartphones",
+        "thumbnail": "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
+        "image": "https://i.dummyjson.com/data/products/5/1.jpg",
+        "rating": {
+            "rate": 4.9,
+            "review": 0
+        },
+        "wishlist": false,
+        "created_at":"2022-11-20 15:06:00"
+    }
+]

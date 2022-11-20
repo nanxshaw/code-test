@@ -1,3 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -11,3 +15,94 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.link {
+  color: #333;
+}
+
+.link:hover {
+   color: #333
+}
+
+.title {
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.price {
+  color: "#FF0000"
+}
+
+.price-line {
+  text-decoration: line-through
+}
+
+.cat {
+  font-size: 13px;
+}
+
+.desc {
+  font-size: 12px;
+}
+
+.btn {
+  background-color: #F4A460;
+  margin: 10px;
+}
+
+.btn:hover {
+  background-color: #F4A460;
+  margin: 10px;
+}
+
+.images {
+  height: 100px;
+  width: 100%;
+  align-self: center;
+}
+
+.row-center {
+  align-items: center;
+}
+
+.tx-rate {
+  font-size: 10px;
+  margin-right: 5px;
+  margin-left: 5px;
+}
+
+.tx-white {
+  color: white;
+  font-weight: bold;
+  font-size: 12px;
+}
+
+.span-best-seller {
+  background-color: #F4A460;
+  padding:2px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 10px;
+  margin-right: 10px;
+}
+
+.span-new {
+  background-color: #48D1CC	;
+  padding:2px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 10px;
+  margin-right: 10px;
+}
+
+.span-hot-lesson {
+  background-color: #F08080;
+  padding:2px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 10px;
+  margin-right: 10px;
+}
+
+
+
