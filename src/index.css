@@ -1,6 +1,6 @@
-@tailwind base;
+/* @tailwind base;
 @tailwind components;
-@tailwind utilities;
+@tailwind utilities; */
 
 body {
   margin: 0;
@@ -104,5 +104,17 @@ code {
   margin-right: 10px;
 }
 
+.margin-right{
+  margin-right: 15;
+}
 
+.container {
+  display: block;
+  text-align: center;
+}
 
+.align-right {
+  align-items: flex-end;
+  justify-items: end;
+  align-self: flex-end;
+}
